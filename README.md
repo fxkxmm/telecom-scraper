@@ -19,7 +19,6 @@ US Cellular
 Verizon
 Virgin Canada
 Virgin USA
-![image](https://user-images.githubusercontent.com/23301349/151703144-75548661-554d-4eb9-b57f-18c507b5561e.png)
 
 
 Contact author for more!
